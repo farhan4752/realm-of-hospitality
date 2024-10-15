@@ -1,0 +1,120 @@
+{
+    "properties": [
+      {
+        "id": 1,
+        "estate_title": "Seaside Resort",
+        "segment_name": "Resort",
+        "description": "Located in the pristine coastal city of Cox's Bazar, the Seaside Resort offers a one-of-a-kind experience for those seeking luxury and tranquility by the sea. Spanning 5000 square feet, this resort is a haven for vacationers who want to escape the bustle of everyday life and soak in the beauty of the Bay of Bengal. The architecture is a blend of modern minimalism and traditional Bangladeshi elements, ensuring that guests feel both at home and in paradise. The resort boasts 20 spacious rooms, each designed with comfort and style in mind, featuring floor-to-ceiling windows that offer stunning ocean views. The common areas are no less spectacular, with a large infinity pool that appears to flow directly into the ocean, a fully-equipped gym, a fine dining restaurant serving both local and international cuisine, and a rooftop lounge where guests can enjoy sunsets. In addition to its aesthetic appeal, the Seaside Resort has state-of-the-art facilities for business meetings, conferences, and weddings, making it a versatile destination. Its location is another key feature—Cox's Bazar is not only famous for its long, sandy beach but also for its rich cultural heritage. The nearby Himchari National Park and the Buddhist temples in Ramu are popular attractions. For those interested in water sports, the resort offers a wide range of activities including surfing, snorkeling, and fishing. Whether you're looking to relax or seek adventure, the Seaside Resort provides the perfect base to explore all that Cox's Bazar has to offer.",
+        "image": "/images/sea-side-resort.jpg",
+        "price": "৳50,00,000",
+        "status": "Sale",
+        "area": "5000 sq ft",
+        "location": "Cox's Bazar, Bangladesh",
+        "facilities": ["Living Room", "Swimming Pool", "Kitchen"]
+        
+      },
+      {
+        "id": 2,
+        "estate_title": "Hilltop Lodge",
+        "segment_name": "Lodge",
+        "description": "Nestled in the lush hills of Bandarban, Hilltop Lodge is a perfect retreat for nature lovers and adventure seekers. With its 3500 square feet of luxurious living space, this lodge offers an unparalleled combination of comfort and natural beauty. The architecture is designed to blend seamlessly with the surrounding landscape, using locally sourced materials like bamboo and timber to create an eco-friendly structure. Each of the 10 guest rooms offers panoramic views of the hills, with large balconies that provide the perfect spot to enjoy a morning coffee or evening tea. The lodge also features a communal living room where guests can relax by the fireplace, a swimming pool that overlooks the valley, and a fully-equipped kitchen where local chefs prepare fresh, organic meals. One of the highlights of Hilltop Lodge is its proximity to Bandarban's top attractions. Guests can easily access nearby hiking trails that lead to stunning waterfalls, dense forests, and hilltop viewpoints offering breathtaking vistas of the Chittagong Hill Tracts. Adventure activities like trekking, river rafting, and zip-lining are also available, making it an ideal destination for thrill-seekers. At the same time, those looking for a more peaceful experience can participate in yoga sessions, meditation, or simply take a leisurely stroll through the lodge's private gardens. The nearby tribal villages offer a unique cultural experience, allowing guests to learn about the indigenous communities that call this region home. With its blend of luxury, adventure, and cultural immersion, Hilltop Lodge is a unique offering in Bandarban’s hospitality landscape.",
+        "image": "/images/hiltop-lodge.webp",
+        "price": "৳10,000/night",
+        "status": "Rent",
+        "area": "3500 sq ft",
+        "location": "Bandarban, Bangladesh",
+        "facilities": ["Living Room", "Swimming Pool", "Kitchen"]
+        
+      },
+      {
+        "id": 3,
+        "estate_title": "Redison Blue",
+        "segment_name": "Hotel",
+        "description": "Located in the heart of Dhaka’s bustling Gulshan area, Dhaka City Hotel stands as a symbol of modern luxury and urban sophistication. This 8000 square foot hotel caters primarily to business travelers but also offers a warm welcome to tourists looking to explore Bangladesh’s capital city. With its strategic location, guests have easy access to major business hubs, embassies, and shopping centers, making it an ideal choice for both work and leisure. The hotel’s design is a blend of contemporary elegance and traditional Bangladeshi aesthetics. The spacious lobby features marble floors, elegant chandeliers, and local artwork, creating an inviting atmosphere for visitors. Dhaka City Hotel boasts 100 well-appointed rooms, each equipped with modern amenities like high-speed Wi-Fi, smart TVs, and luxurious bedding. The hotel also offers a range of dining options, from a multi-cuisine restaurant serving local and international dishes to a rooftop café that offers panoramic views of the city skyline. For business travelers, the hotel features state-of-the-art conference rooms and meeting facilities. Fitness enthusiasts can take advantage of the fully-equipped gym, while those looking to unwind can enjoy a dip in the rooftop swimming pool or relax in the spa. The hotel's location is another major draw. Guests can easily explore Dhaka’s rich cultural heritage, including landmarks like the Lalbagh Fort, Ahsan Manzil, and the National Museum. The nearby Hatirjheel lake offers a peaceful escape from the city’s hustle and bustle. Dhaka City Hotel not only provides a luxurious stay but also serves as a gateway to experience the vibrant culture and history of Bangladesh’s capital city.",
+        "image": "/images/redison-blue.jpg",
+        "price": "৳5,00,00,000",
+        "status": "Sale",
+        "area": "8000 sq ft",
+        "location": "Gulshan, Dhaka",
+        "facilities": ["Living Room", "Swimming Pool", "Kitchen"]
+        
+      },
+      {
+        "id": 4,
+        "estate_title": "Lakeside Guesthouse",
+        "segment_name": "Guesthouse",
+        "description": "Tucked away on the shores of Kaptai Lake, Lakeside Guesthouse offers a peaceful retreat for those looking to escape the city and reconnect with nature. This guesthouse is a hidden gem in Rangamati, a region known for its scenic beauty and cultural diversity. Spanning 2500 square feet, the guesthouse features 6 cozy rooms, each offering stunning views of the lake and surrounding hills. The design is simple yet elegant, with large windows that let in plenty of natural light and a color palette inspired by the lake’s tranquil waters. The common areas include a spacious living room with comfortable seating, a dining area where guests can enjoy home-cooked meals, and a terrace that overlooks the lake—perfect for watching the sunset. The guesthouse also features a swimming pool, a rare luxury in this remote area, as well as a fully-equipped kitchen where guests can either cook for themselves or have meals prepared by the staff. The real draw of Lakeside Guesthouse, however, is its location. Kaptai Lake is one of the largest man-made lakes in Asia, and its crystal-clear waters are ideal for swimming, boating, and fishing. Guests can take a boat ride to explore the many islands that dot the lake, or visit nearby attractions like the Rangamati Tribal Museum and the Shuvolong Waterfalls. For those interested in culture, the guesthouse can arrange tours to local tribal villages, offering a unique insight into the lives of the indigenous communities that inhabit this region. Whether you’re looking for adventure or relaxation, Lakeside Guesthouse provides the perfect setting for a memorable stay in Rangamati.",
+        "image": "/images/lake-side.jpg",
+        "price": "৳8,000/night",
+        "status": "Rent",
+        "area": "2500 sq ft",
+        "location": "Kaptai, Rangamati",
+        "facilities": ["Living Room", "Swimming Pool", "Kitchen"]
+       
+      },
+      {
+        "id": 5,
+        "estate_title": "Tropical Vacation Villa",
+        "segment_name": "Vacation Rental",
+        "description": "Located near the Sundarbans, the Tropical Vacation Villa is a luxurious getaway offering peace, privacy, and unmatched natural beauty. This 6000 square foot villa is designed to provide a comfortable and serene environment for families and groups looking to explore the world’s largest mangrove forest. The villa features 5 bedrooms, each with its own en-suite bathroom and balcony offering stunning views of the surrounding gardens. The design of the villa is inspired by traditional Bangladeshi architecture, with open-air courtyards, wooden furnishings, and handwoven textiles. The common areas are spacious and well-appointed, including a large living room with a fireplace, a dining room that can seat up to 12 people, and a fully-equipped kitchen where guests can prepare meals or have them catered by local chefs. The villa also boasts a private swimming pool surrounded by tropical plants, providing the perfect spot to relax after a day of exploring. The location is another major highlight of the Tropical Vacation Villa. The Sundarbans, a UNESCO World Heritage Site, is just a short boat ride away, offering opportunities for wildlife spotting, including the famous Bengal tiger, as well as bird watching and boat tours through the mangrove forests. For those looking for a more laid-back experience, the villa offers a range of activities, including guided nature walks, fishing trips, and cooking classes focused on traditional Bangladeshi cuisine. Whether you’re looking to explore the natural wonders of the Sundarbans or simply relax in a luxurious, private setting, the Tropical Vacation Villa is the perfect destination.",
+        "image": "/images/tropical-villa.jpg",
+        "price": "৳1,50,000/week",
+        "status": "Rent",
+        "area": "6000 sq ft",
+        "location": "Khulna, Bangladesh",
+        "facilities": ["Living Room", "Swimming Pool", "Kitchen"]
+       
+      },
+      {
+        "id": 6,
+        "estate_title": "Grand Sultan",
+        "segment_name": "Lodge",
+        "description": "Set amidst the lush greenery of Sylhet's tea gardens, the Sylhet Tea Garden Lodge offers an immersive experience in the natural beauty and tranquility of this famous region. The lodge covers 4000 square feet and is designed to give guests a luxurious yet authentic experience. The building itself is an architectural masterpiece that combines modern amenities with traditional wooden elements. The lodge has eight spacious guest rooms, each offering sweeping views of the tea gardens, and large balconies perfect for taking in the fresh morning air. Inside, guests can unwind in the living room, which is adorned with local handicrafts and cozy furniture. The outdoor swimming pool provides a refreshing escape, and the well-equipped kitchen allows for home-cooked meals or dishes prepared by the lodge’s own chefs. Sylhet is known for its rich history and culture, and the Sylhet Tea Garden Lodge offers easy access to local attractions such as Ratargul Swamp Forest and the Jaflong Valley. Guests can also participate in tea-tasting sessions and guided tours of the tea gardens, learning about the art of tea production in one of Bangladesh's most famous tea regions. The lodge offers numerous other activities, including bird watching, hiking, and guided visits to nearby tribal villages. With its rich offerings and beautiful surroundings, Sylhet Tea Garden Lodge is a serene getaway where guests can enjoy the best that nature has to offer while experiencing the hospitality of Sylhet.",
+        "image": "/images/grand-sultan.jpg",
+        "price": "৳15,000/night",
+        "status": "Rent",
+        "area": "4000 sq ft",
+        "location": "Sylhet, Bangladesh",
+        "facilities": ["Living Room", "Swimming Pool", "Kitchen"]
+        
+      },
+      {
+        "id": 7,
+        "estate_title": "Urban Luxury Apartment",
+        "segment_name": "Apartment",
+        "description": "Located in the upscale neighborhood of Dhanmondi, Dhaka, the Urban Luxury Apartment offers an unparalleled living experience in the heart of the city. This 3000 square foot apartment is designed for those seeking modern comfort with easy access to Dhaka's top attractions. The apartment features 4 spacious bedrooms, each with en-suite bathrooms, making it an ideal living space for families or professionals. The large living room, complete with floor-to-ceiling windows, provides stunning views of the city, while the open-concept kitchen is equipped with state-of-the-art appliances. The apartment complex offers a range of amenities, including a rooftop swimming pool, a fully-equipped gym, and 24/7 security. Dhanmondi is one of Dhaka’s most vibrant neighborhoods, offering a wide range of cultural, dining, and shopping options. Guests can take a leisurely walk around Dhanmondi Lake, visit the nearby Bangladesh National Museum, or enjoy the diverse food scene, from traditional Bangladeshi eateries to international fine dining. The Urban Luxury Apartment also offers easy access to business districts, making it an ideal residence for working professionals. With its luxurious interiors and convenient location, this apartment combines the best of modern city living with the warmth of a family home.",
+        "image": "/images/urban.jpg",
+        "price": "৳2,00,00,000",
+        "status": "Sale",
+        "area": "3000 sq ft",
+        "location": "Dhanmondi, Dhaka",
+        "facilities": ["Living Room", "Swimming Pool", "Kitchen"]
+        
+      },
+      {
+        "id": 8,
+        "estate_title": "Rural Eco Lodge",
+        "segment_name": "Eco Lodge",
+        "description": "The Rural Eco Lodge is an eco-friendly property located in the picturesque region of Srimangal, known for its tea gardens and rainforests. Spread over 3500 square feet, this lodge offers an immersive experience in nature while maintaining comfort and sustainability. The lodge has been built using locally sourced, eco-friendly materials, ensuring a minimal environmental footprint. With 5 well-appointed rooms, each offering beautiful views of the surrounding greenery, the lodge is ideal for small groups or families seeking an intimate and peaceful getaway. The property includes a spacious living room, a dining area that seats up to 10 people, and a kitchen where meals are prepared using locally grown organic produce. The eco-lodge is located near Lawachara National Park, one of Bangladesh's most famous rainforest reserves. Guests can take guided tours to explore the rich biodiversity of the region, including rare wildlife such as the hoolock gibbons and various bird species. The lodge also offers activities such as tea garden tours, cycling, and nature walks. Sustainability is at the heart of the lodge’s operations, with solar-powered lighting, rainwater harvesting systems, and composting toilets. With its focus on environmental conservation and community-based tourism, the Rural Eco Lodge offers a unique opportunity to experience the beauty of rural Bangladesh in an eco-friendly way.",
+        "image": "/images/rural-resort.avif",
+        "price": "৳12,000/night",
+        "status": "Rent",
+        "area": "3500 sq ft",
+        "location": "Srimangal, Bangladesh",
+        "facilities": ["Living Room", "Swimming Pool", "Kitchen"]
+      },
+      {
+        "id": 9,
+        "estate_title": "Rural Eco Lodge",
+        "segment_name": "Eco Lodge",
+        "description": "The Rural Eco Lodge is an eco-friendly property located in the picturesque region of Srimangal, known for its tea gardens and rainforests. Spread over 3500 square feet, this lodge offers an immersive experience in nature while maintaining comfort and sustainability. The lodge has been built using locally sourced, eco-friendly materials, ensuring a minimal environmental footprint. With 5 well-appointed rooms, each offering beautiful views of the surrounding greenery, the lodge is ideal for small groups or families seeking an intimate and peaceful getaway. The property includes a spacious living room, a dining area that seats up to 10 people, and a kitchen where meals are prepared using locally grown organic produce. The eco-lodge is located near Lawachara National Park, one of Bangladesh's most famous rainforest reserves. Guests can take guided tours to explore the rich biodiversity of the region, including rare wildlife such as the hoolock gibbons and various bird species. The lodge also offers activities such as tea garden tours, cycling, and nature walks. Sustainability is at the heart of the lodge’s operations, with solar-powered lighting, rainwater harvesting systems, and composting toilets. With its focus on environmental conservation and community-based tourism, the Rural Eco Lodge offers a unique opportunity to experience the beauty of rural Bangladesh in an eco-friendly way.",
+        "image": "/images/slider-2.jpg",
+        "price": "৳12,000/night",
+        "status": "Rent",
+        "area": "3500 sq ft",
+        "location": "Srimangal, Bangladesh",
+        "facilities": ["Living Room", "Swimming Pool", "Kitchen"]
+      }
+    ]
+  }
+  
